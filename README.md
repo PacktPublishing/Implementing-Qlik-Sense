@@ -43,6 +43,3 @@ Access odbc driver to connect to the mdb file from Qlik Sense Desktop.
 * [Qlik Sense® Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/qlik-sense-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781782175148)
 
 * [Learning Qlik Sense®: The Official Guide - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/learning-qlik-sense-official-guide-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785887161)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
